@@ -1,5 +1,5 @@
 """
-@Made by: Kush, Hamed, Rasmus & Mansour - 24-11-2021
+24-11-2021 Made by Hamed, Max, Mansour & Rasmus 
 Roskilde University - IDS Autumn #2 Hand-in assignment.
 
 Python Webcam Recognizer
